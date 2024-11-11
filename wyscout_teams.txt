@@ -1,0 +1,236 @@
+Adrian Bulldogs
+Air Force Falcons
+Akron Zips
+Albany Great Danes
+American Eagles
+Army West Point Black Knights
+Assumption Greyhounds
+Aurora Spartans
+Averett Cougars
+Bellarmine Knights
+Belmont Abbey Crusaders
+Belmont Bruins
+Berkeley Golden Bears
+Binghamton BearCats
+Boston College Eagles
+Boston Terriers
+Bowling Green Falcons
+Bradley Braves
+Brown Bears
+Bryant Bulldogs
+Bucknell Bison
+Butler Bulldogs
+CCSU Blue Devils
+CSU Bakersfield Roadrunners
+CSUN Matadors
+Cal Poly Mustangs
+Cal State Fullerton Titans
+California Baptist Lancers
+Campbell Camels
+Canisius Golden Griffins
+Central Arkansas Bears
+Charleston Cougars
+Charlotte 49ers
+Chicago State Cougars
+Clemson Tigers
+Cleveland State Vikings
+Coastal Carolina Chanticleers
+Colgate Raiders
+Columbia Lions
+Cornell Big Red
+Creighton Bluejays
+Dartmouth Big Green
+Davidson Wildcats
+Dayton Flyers
+DePaul Blue Demons
+Delaware Blue Hens
+Denver Pioneers
+Detroit Mercy Titans
+Drake Bulldogs
+Drexel Dragons
+Duke Blue Devils
+Duquesne Duke
+ETSU Buccaneers
+Eastern Illinois Panthers
+Elon Phoenix
+Embry Riddle Eagles
+Evansville Purple Aces
+FAU Owls
+FGCU Eagles
+FIU Panthers
+Fairfield Stags
+Fairleigh Dickinson Knights
+Fordham Rams
+Fresno Pacific Sunbird
+Furman Paladins
+Gardner-Webb Bulldogs
+George Mason Patriots
+George Washington Colonials
+Georgetown Hoyas
+Georgia Southern Eagles
+Georgia State Panthers
+Gonzaga Bulldogs
+Grand Canyon Lopes
+Green Bay Phoenix
+Greensboro Pride
+HCU Huskies
+Hampden-Sydney Tigers
+Harvard Crimson
+High Point Panthers
+Hofstra Pride
+Holy Cross Crusaders
+Howard Bison
+IPFW Mastodons
+IUPUI Jaguars
+Indiana Hoosiers
+Iona Gaels
+JMU Dukes
+Jacksonville Dolphins
+Kentucky Wildcats
+LIU Sharks
+LMU Lions
+La Salle Explorers
+Lafayette Leopards
+Le Moyne Dolphins
+Lehigh Mountain Hawks
+Liberty Flames
+Life Pacific Warriors
+Lindenwood Lions
+Lipscomb Bisons
+Longwood Lancers
+Louisville Cardinals
+Loyola Chicago Ramblers
+Loyola Greyhounds
+Manhattan Jaspers
+Marist Red Foxes
+Marquette Golden Eagles
+Marshall Thundering Herd
+Mary Baldwin
+Maryland College Park Terrapins
+Memphis Tigers
+Mercer Bears
+Merrimack Warriors
+Michigan State Spartans
+Michigan Wolverines
+Milwaukee Panthers
+Missouri State Bears
+Monmouth Hawks
+Mount St. Mary's Mountaineers
+NC State Wolfpack
+NJIT Highlanders
+NKU Norse
+Navy Midshipmen
+New Hampshire Wildcats
+Niagara Purple Eagles
+North Carolina Heels
+North Florida Ospreyes
+Northeastern Huskies
+Northern Illinois Huskies
+Northwestern Wildcats
+Notre Dame Fighting Irish
+Oakland Golden Grizzlies
+Oberlin Yeomen
+Ohio State Buckeyes
+Old Dominion Monarchs
+Omaha Mavericks
+Oral Roberts Golden Eagles
+Oregon State Beavers
+Pacific Tigers
+Penn Quakers
+Penn State Nittany Lion
+Pittsburgh Panthers
+Portland Pilots
+Presbyterian BlueHose
+Princeton Tigers
+Providence Friars
+Queens Royals
+Quinnipiac Bobcats
+Radford Highlanders
+Regent Royals
+Rhode Island Rhody
+Rider Broncs
+Robert Morris Colonials
+Rutgers Scarlet Knights
+SFU Red Flash
+SHU Pioneers
+SIUE Cougars
+SMU Mustangs
+Sacramento State Hornets
+Saint Joseph's Golden Eagles
+Saint Joseph's Hawks
+Saint Louis Billikens
+Saint Peter's Peacocks
+San Diego State Aztecs
+San Diego Toreros
+San Francisco Dons
+San Jose State Spartans
+Santa Clara Broncos
+Seattle Redhawks
+Seton Hall Pirates
+Siena Saints
+South Carolina Gamecocks
+Southern Indiana Screaming Eagles
+Southern Wesleyan Warriors
+Southwest Baptist Bearcats
+St John's Red Storm
+St. Bonaventure Bonnies
+St. Mary's College of CA Gaels
+St. Thomas Tommies
+Stanford Cardinal
+Stetson Hatters
+Stonehill College Skyhawks
+Stony Brook Seawolves
+Suffolk Rams
+Syracuse Orange
+TAMUSA Jaguars
+Temple Owls
+Thomas Night Hawks
+Trine Thunder
+Trinity Tigers
+Tulsa Hurricane
+UAB Blazers
+UC Davis Aggies
+UC Irvine Anteaters
+UC Riverside Highlanders
+UC San Diego Tritons
+UC Santa Barbara Gauchos
+UCF Knights
+UCLA Bruins
+UCONN Huskies
+UHSP Eutetics
+UIC Flames
+UIW Cardinals
+UMASS Lowell River Hawks
+UMBC Retrievers
+UMFK Bengals
+UMKC Kangaroos
+UMass Minutemen
+UNC Asheville Bulldogs
+UNCG Spartans
+UNCW Seahawks
+UNLV Rebels
+USC Upstate Spartans
+USF Bulls
+UTRGV Vaqueros
+Utah Tech Trailblazers
+Utah Valley Wolverines
+VCU Rams
+VMI Keydets
+Vermont Catamouts
+Villanova Wildcats
+Virginia Cavaliers
+Virginia Tech Hokies
+WIU Fighting Leathernecks
+Wake Forest Demon Deacon
+Washington Huskies
+Webster Gorloks
+West Virginia Mountaineers
+Western Michigan Broncos
+Westmont Warriors
+William & Mary Tribe
+Winthrop Eagles
+Wisconsin Badgers
+Wofford Terriers
+Wright State Raiders
+Xavier Musketeers
+Yale Bulldogs

@@ -1,0 +1,234 @@
+Adrian
+Air Force
+Akron
+American
+Army West Point
+Assumption
+Aurora
+Averett
+Bellarmine
+Belmont
+Belmont Abbey
+Binghamton
+Blackburn
+Boston College
+Boston U.
+Bowling Green
+Bradley
+Brandeis
+Brown
+Bryant
+Bucknell
+Butler
+CSU Bakersfield
+CSUN
+Cal Poly
+Cal St. Fullerton
+California
+California Baptist
+Campbell
+Canisius
+Central Ark.
+Central Conn. St.
+Charlotte
+Chicago St.
+Clemson
+Cleveland St.
+Coastal Carolina
+Col. of Charleston
+Colgate
+Columbia
+Cornell
+Creighton
+Dartmouth
+Davidson
+Dayton
+DePaul
+Delaware
+Denver
+Detroit Mercy
+Drake
+Drexel
+Duke
+Duquesne
+ETSU
+Eastern Ill.
+Elon
+Embry-Riddle (FL)
+Evansville
+FDU
+FGCU
+FIU
+Fairfield
+Fla. Atlantic
+Fordham
+Fresno Pacific
+Furman
+Ga. Southern
+Gardner-Webb
+George Mason
+George Washington
+Georgetown
+Georgia St.
+Gonzaga
+Grand Canyon
+Green Bay
+Greensboro
+Hampden-Sydney
+Harvard
+High Point
+Hofstra
+Holy Cross
+Houston Christian
+Howard
+IU Indy
+Indiana
+Iona
+Jacksonville
+James Madison
+Kansas City
+Kentucky
+LIU
+LMU (CA)
+La Salle
+Lafayette
+Le Moyne
+Lehigh
+Liberty
+Lindenwood
+Lipscomb
+Longwood
+Louisville
+Loyola Chicago
+Loyola Maryland
+Manhattan
+Marist
+Marquette
+Marshall
+Mary Baldwin
+Maryland
+Massachusetts
+Memphis
+Mercer
+Merrimack
+Michigan
+Michigan St.
+Milwaukee
+Missouri St.
+Monmouth
+Mount St. Mary's
+NC State
+NIU
+NJIT
+Navy
+New Hampshire
+Niagara
+North Carolina
+North Florida
+Northeastern
+Northern Ky.
+Northwestern
+Notre Dame
+Oakland
+Oberlin
+Ohio St.
+Old Dominion
+Omaha
+Oral Roberts
+Oregon St.
+Pacific
+Penn
+Penn St.
+Pittsburgh
+Portland
+Presbyterian
+Princeton
+Providence
+Purdue Fort Wayne
+Queens (NC)
+Quinnipiac
+Radford
+Rhode Island
+Rider
+Robert Morris
+Rutgers
+SIUE
+SMU
+SUNY Maritime
+Sacramento St.
+Sacred Heart
+Saint Francis 
+Saint Joseph's
+Saint Louis
+Saint Mary's (CA)
+Saint Peter's
+San Diego
+San Diego St.
+San Francisco
+San Jose St.
+Santa Clara
+Seattle U
+Seton Hall
+Siena
+South Carolina
+South Fla.
+Southern Ind.
+Southern Wesleyan
+Southwest Baptist
+St. Bonaventure
+St. John's (NY)
+St. Joseph's (L.I.)
+St. Thomas (MN)
+Stanford
+Stetson
+Stonehill
+Stony Brook
+Suffolk
+Syracuse
+Temple
+Trine
+Trinity (TX)
+Tulsa
+UAB
+UAlbany
+UC Davis
+UC Irvine
+UC Riverside
+UC San Diego
+UC Santa Barbara
+UCF
+UCLA
+UChicago
+UConn
+UIC
+UIW
+UMBC
+UMass Lowell
+UNC Asheville
+UNC Greensboro
+UNCW
+UNLV
+USC Upstate
+UTRGV
+Unknown Home Team
+Utah Tech
+Utah Valley
+VCU
+VMI
+Vermont
+Villanova
+Virginia
+Virginia Tech
+Wake Forest
+Washington
+Webster
+West Virginia
+Western Ill.
+Western Mich.
+William & Mary
+Winthrop
+Wisconsin
+Wofford
+Wright St.
+Xavier
+Yale

@@ -18,9 +18,9 @@ def upload_json_files_to_mongo(directory_path, mongo_uri, db_name, collection_na
                 print(f"Uploaded {filename} to MongoDB")
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
-directory_path = os.path.join(current_directory, 'match_info_events')
+directory_path = os.path.join(current_directory, 'match_info_no_events')
 mongo_uri = 'mongodb+srv://csulkin:wlUApjuSkuJLKEht@cluster0.bwqag.mongodb.net/'
 db_name = 'match_data'
-collection_name = 'match_info_events'
+collection_name = 'match_info_summary'
 
 upload_json_files_to_mongo(directory_path, mongo_uri, db_name, collection_name)
