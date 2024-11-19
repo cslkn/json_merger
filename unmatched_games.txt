@@ -34,11 +34,11 @@
 5512436, 2023-08-19, LMU Lions vs UC Irvine Anteaters
 5484646, 2023-09-05, SHU Pioneers vs Rider Broncs
 5517499, 2023-10-03, Maritime Privateers vs Hofstra Pride
-5510750, 2023-08-20, UC San Diego Tritons vs UNLV Rebels
-5486430, 2023-09-04, UC San Diego Tritons vs Westcliff Warriors
 5501539, 2023-09-19, San Diego State Aztecs vs Life Pacific Warriors
 5501546, 2023-09-29, San Diego State Aztecs vs Berkeley Golden Bears
 5501574, 2023-11-05, Berkeley Golden Bears vs San Diego State Aztecs
+5510750, 2023-08-20, UC San Diego Tritons vs UNLV Rebels
+5486430, 2023-09-04, UC San Diego Tritons vs Westcliff Warriors
 5484488, 2023-09-12, IUPUI Jaguars vs Loyola Chicago Ramblers
 5484506, 2023-09-27, Northern Illinois Huskies vs Loyola Chicago Ramblers
 5540595, 2023-11-04, Loyola Chicago Ramblers vs Dayton Flyers
@@ -56,8 +56,6 @@
 5540963, 2023-11-05, UNC Asheville Bulldogs vs Winthrop Eagles
 5510752, 2023-08-19, Grand Canyon Lopes vs Arizona Christian Firestorm
 5517499, 2023-10-03, Maritime Privateers vs Hofstra Pride
-5510685, 2023-08-12, Cal State Fullerton Titans vs California Baptist Lancers
-5541101, 2023-11-05, Cal State Fullerton Titans vs UC Davis Aggies
 5501512, 2023-09-01, Berkeley Golden Bears vs Fairleigh Dickinson Knights
 5505783, 2023-10-01, SFU Red Flash vs Fairleigh Dickinson Knights
 5541257, 2023-11-09, LIU Sharks vs Fairleigh Dickinson Knights
@@ -103,8 +101,8 @@
 5483135, 2023-10-03, Butler Bulldogs vs IUPUI Jaguars
 5517153, 2023-08-10, Bradley Braves vs Iowa Western Reivers
 5528905, 2023-09-08, WIU Fighting Leathernecks vs Bradley Braves
-5521375, 2023-08-24, Cal Poly Mustangs vs Fresno Pacific Sunbird
 5501539, 2023-09-19, San Diego State Aztecs vs Life Pacific Warriors
+5521375, 2023-08-24, Cal Poly Mustangs vs Fresno Pacific Sunbird
 5510750, 2023-08-20, UC San Diego Tritons vs UNLV Rebels
 5540723, 2023-11-05, UNLV Rebels vs Utah Valley Wolverines
 5541265, 2023-11-09, UNLV Rebels vs Seattle Redhawks
@@ -130,6 +128,8 @@
 5443726, 2023-02-23, Lees-McRae Bobcats vs UNC Asheville Bulldogs
 5540963, 2023-11-05, UNC Asheville Bulldogs vs Winthrop Eagles
 5541272, 2023-11-12, High Point Panthers vs UNC Asheville Bulldogs
+5510685, 2023-08-12, Cal State Fullerton Titans vs California Baptist Lancers
+5541101, 2023-11-05, Cal State Fullerton Titans vs UC Davis Aggies
 5505794, 2023-10-15, Le Moyne Dolphins vs SFU Red Flash
 5491756, 2023-10-24, Robert Morris Colonials vs Le Moyne Dolphins
 5483220, 2023-08-16, Dayton Flyers vs Chicago State Cougars
@@ -142,7 +142,6 @@
 5501898, 2023-08-11, Stetson Hatters vs Daytona State Falcons
 5496376, 2023-08-16, Georgia Southern Eagles vs Stetson Hatters
 5541205, 2023-11-07, Bellarmine Knights vs Stetson Hatters
-5501974, 2023-08-20, Lipscomb Bisons vs Auburn Montgomery Warhawks
 5501911, 2023-08-18, Charlotte 49ers vs Queens Royals
 5483065, 2023-08-24, Charlotte 49ers vs UCONN Huskies
 5498143, 2023-09-09, Charlotte 49ers vs UNCG Spartans
@@ -221,8 +220,8 @@
 5483225, 2023-08-19, Ohio State Buckeyes vs Dayton Flyers
 5484044, 2023-09-01, Dayton Flyers vs IUPUI Jaguars
 5540595, 2023-11-04, Loyola Chicago Ramblers vs Dayton Flyers
-5501898, 2023-08-11, Stetson Hatters vs Daytona State Falcons
 5496381, 2023-08-19, Georgia Southern Eagles vs Clayton State Lakers
+5501898, 2023-08-11, Stetson Hatters vs Daytona State Falcons
 5541092, 2023-11-05, Virginia Cavaliers vs Syracuse Orange
 5444862, 2023-03-18, Wake Forest Demon Deacon vs Virginia Tech Hokies
 5501911, 2023-08-18, Charlotte 49ers vs Queens Royals
@@ -263,6 +262,9 @@
 5383421, 2022-08-21, Cal Poly Mustangs vs Santa Clara Broncos
 5381461, 2022-09-06, Cal Poly Mustangs vs HBU Huskies
 5329811, 2022-04-02, Pacific Tigers vs Cal Poly Humboldt
+5318798, 2022-03-10, Davidson Wildcats vs Winthrop Eagles
+5318799, 2022-03-26, Gardner-Webb Bulldogs vs Winthrop Eagles
+5388708, 2022-09-02, Georgia State Panthers vs Winthrop Eagles
 5376487, 2022-08-20, Marist Red Foxes vs Fordham Rams
 5393130, 2022-08-13, Manhattan Jaspers vs St. Francis Brooklyn Terriers
 5377431, 2022-10-13, SHU Pioneers vs St. Francis Brooklyn Terriers
@@ -308,25 +310,19 @@
 5376475, 2022-08-16, Boston Terriers vs UMASS Lowell River Hawks
 5376485, 2022-08-19, Siena Saints vs Boston Terriers
 5415407, 2022-11-08, Boston Terriers vs Navy Midshipmen
-5375602, 2022-08-13, Berkeley Golden Bears vs UC Riverside Highlanders
 5377413, 2022-09-25, SHU Pioneers vs Fairleigh Dickinson Knights
 5415480, 2022-11-11, Fairleigh Dickinson Knights vs SHU Pioneers
+5375602, 2022-08-13, Berkeley Golden Bears vs UC Riverside Highlanders
 5318799, 2022-03-26, Gardner-Webb Bulldogs vs Winthrop Eagles
 5391399, 2022-10-25, Gardner-Webb Bulldogs vs Johnson & Wales Wildcats
 5391038, 2022-08-20, Robert Morris Colonials vs Mount St. Mary's Mountaineers
 5391797, 2022-08-14, North Carolina Heels vs USC Upstate Spartans
-5318798, 2022-03-10, Davidson Wildcats vs Winthrop Eagles
-5318799, 2022-03-26, Gardner-Webb Bulldogs vs Winthrop Eagles
-5388708, 2022-09-02, Georgia State Panthers vs Winthrop Eagles
 5327546, 2022-03-06, Cleveland State Vikings vs Akron Zips
 5327547, 2022-03-13, Michigan Wolverines vs Akron Zips
 5391060, 2022-08-19, Akron Zips vs Oakland Golden Grizzlies
 5376471, 2022-08-13, Fairfield Stags vs Fordham Rams
 5376474, 2022-08-16, Fordham Rams vs SHU Pioneers
 5376487, 2022-08-20, Marist Red Foxes vs Fordham Rams
-5375638, 2022-08-26, Cal State Fullerton Titans vs Berkeley Golden Bears
-5394227, 2022-08-29, Cal State Fullerton Titans vs Life Pacific Warriors
-5377640, 2022-09-10, Cal State Fullerton Titans vs SFU Red Flash
 5376486, 2022-08-19, Navy Midshipmen vs Binghamton BearCats
 5414849, 2022-11-05, UMBC Retrievers vs Binghamton BearCats
 5391060, 2022-08-19, Akron Zips vs Oakland Golden Grizzlies
@@ -401,9 +397,6 @@
 5378456, 2022-09-06, UNCG Spartans vs High Point Panthers
 5391035, 2022-08-14, Coastal Carolina Chanticleers vs Wake Forest Demon Deacon
 5378451, 2022-09-02, UNCG Spartans vs Coastal Carolina Chanticleers
-5318300, 2022-02-20, LMU Lions vs AIFC
-5383414, 2022-08-14, UC San Diego Tritons vs LMU Lions
-5383420, 2022-08-20, LMU Lions vs CSU Bakersfield Roadrunners
 5376472, 2022-08-13, Maryland College Park Terrapins vs American Eagles
 5376473, 2022-08-15, American Eagles vs Georgetown Hoyas
 5376488, 2022-08-20, William & Mary Tribe vs American Eagles
@@ -417,6 +410,9 @@
 5329925, 2022-04-16, Lipscomb Bisons vs Indiana Hoosiers
 5415406, 2022-11-08, Lipscomb Bisons vs FGCU Eagles
 5393137, 2022-08-21, Bradley Braves vs Butler Bulldogs
+5318300, 2022-02-20, LMU Lions vs AIFC
+5383414, 2022-08-14, UC San Diego Tritons vs LMU Lions
+5383420, 2022-08-20, LMU Lions vs CSU Bakersfield Roadrunners
 5391036, 2022-08-20, Wake Forest Demon Deacon vs West Virginia Mountaineers
 5378275, 2022-08-19, North Florida Ospreyes vs Furman Paladins
 5387716, 2022-08-14, Wofford Terriers vs Clemson Tigers
@@ -436,8 +432,8 @@
 5383413, 2022-08-13, Portland Pilots vs Southern Oregon Raiders
 5375605, 2022-08-16, Portland Pilots vs Oregon State Beavers
 5375627, 2022-08-20, Portland Pilots vs Washington Huskies
-5327547, 2022-03-13, Michigan Wolverines vs Akron Zips
 5391020, 2022-08-20, Michigan State Spartans vs Pittsburgh Panthers
+5327547, 2022-03-13, Michigan Wolverines vs Akron Zips
 5391218, 2022-08-12, Indiana Hoosiers vs DePaul Blue Demons
 5391357, 2022-08-16, DePaul Blue Demons vs Lewis Flyers
 5391219, 2022-08-20, Milwaukee Panthers vs DePaul Blue Demons
@@ -530,6 +526,10 @@
 5194864, 2021-03-30, ETSU Buccaneers vs VMI Keydets
 5194868, 2021-04-03, VMI Keydets vs Wofford Terriers
 5270819, 2021-10-23, VMI Keydets vs UNC Asheville Bulldogs
+5193772, 2021-01-29, Oral Roberts Golden Eagles vs Northeastern State River Hawks
+5199753, 2021-02-06, Northeastern State River Hawks vs Rhode Island Rhody
+5199754, 2021-02-12, Boston College Eagles vs Northeastern State River Hawks
+5199756, 2021-02-20, UMASS Lowell River Hawks vs Northeastern State River Hawks
 5199755, 2021-02-24, Northeastern Huskies vs UMass Minutemen
 5203663, 2021-03-06, New Hampshire Wildcats vs Northeastern Huskies
 5197652, 2021-03-14, Delaware Blue Hens vs Northeastern Huskies
@@ -552,10 +552,6 @@
 5217642, 2021-04-10, Indiana Hoosiers vs Northwestern Wildcats
 5273121, 2021-08-16, Northwestern Wildcats vs Eastern Illinois Panthers
 5295636, 2021-11-07, Maryland College Park Terrapins vs Northwestern Wildcats
-5193772, 2021-01-29, Oral Roberts Golden Eagles vs Northeastern State River Hawks
-5199753, 2021-02-06, Northeastern State River Hawks vs Rhode Island Rhody
-5199754, 2021-02-12, Boston College Eagles vs Northeastern State River Hawks
-5199756, 2021-02-20, UMASS Lowell River Hawks vs Northeastern State River Hawks
 5203664, 2021-02-27, Vermont Catamouts vs UMass Minutemen
 5203665, 2021-03-01, Syracuse Orange vs Vermont Catamouts
 5195301, 2021-03-12, New Hampshire Wildcats vs Vermont Catamouts
@@ -764,19 +760,6 @@
 5218846, 2021-04-17, Hofstra Pride vs JMU Dukes
 5271487, 2021-09-28, Binghamton BearCats vs Hofstra Pride
 5270897, 2021-10-12, Fordham Rams vs Hofstra Pride
-5194745, 2021-02-07, Saint Louis Billikens vs Missouri State Bears
-5193779, 2021-02-26, UMKC Kangaroos vs Missouri State Bears
-5194758, 2021-02-27, Missouri State Bears vs Bradley Braves
-5194845, 2021-03-02, Missouri State Bears vs SIU Edwardsville Coguars
-5194759, 2021-03-04, Drake Bulldogs vs Missouri State Bears
-5194875, 2021-03-10, Creighton Bluejays vs Missouri State Bears
-5194873, 2021-03-22, Missouri State Bears vs Drake Bulldogs
-5194879, 2021-03-26, Loyola Chicago Ramblers vs Missouri State Bears
-5194848, 2021-03-30, Evansville Purple Aces vs Missouri State Bears
-5194847, 2021-04-08, Missouri State Bears vs Loyola Chicago Ramblers
-5218472, 2021-04-13, Missouri State Bears vs Bradley Braves
-5218473, 2021-04-17, Missouri State Bears vs Loyola Chicago Ramblers
-5266785, 2021-10-09, Missouri State Bears vs Loyola Chicago Ramblers
 5201852, 2021-02-10, UMASS Lowell River Hawks vs Sacred Heart Pioneers
 5203817, 2021-02-16, UCONN Huskies University vs Sacred Heart Pioneers
 5203818, 2021-02-22, Hofstra Pride vs Sacred Heart Pioneers
@@ -990,10 +973,6 @@
 5270523, 2021-10-02, USC Upstate Spartans vs Longwood Lancers
 5270534, 2021-10-06, High Point Panthers vs USC Upstate Spartans
 5270816, 2021-10-19, UNCG Spartans vs USC Upstate Spartans
-5261687, 2021-08-21, CSU Bakersfield Roadrunners vs LMU Lions
-5267345, 2021-09-04, Cal State Fullerton Titans vs LMU Lions
-5267815, 2021-09-24, Berkeley Golden Bears vs LMU Lions
-5267588, 2021-10-24, LMU Lions vs Portland Pilots
 5193953, 2021-02-07, Grand Canyon Lopes vs Utah Valley Wolverines
 5194028, 2021-02-27, Air Force Falcons vs Utah Valley Wolverines
 5194033, 2021-03-05, Utah Valley Wolverines vs UTRGV Vaqueros
@@ -1082,7 +1061,6 @@
 5194844, 2021-04-08, Presbyterian BlueHose vs Winthrop Eagles
 5264668, 2021-08-26, Stetson Hatters vs Winthrop Eagles
 5264680, 2021-09-03, Liberty Flames vs Winthrop Eagles
-5270774, 2021-09-11, Winthrop Eagles vs UNCG Spartans
 5270529, 2021-10-30, Winthrop Eagles vs Radford Highlanders
 5270552, 2021-11-03, Gardner-Webb Bulldogs vs Winthrop Eagles
 5199092, 2021-03-11, Canisius Golden Griffins vs Fairfield Stags
@@ -1248,6 +1226,10 @@
 5262484, 2021-09-21, Eastern Illinois Panthers vs Green Bay Phoenix
 5261997, 2021-09-29, Detroit Mercy Titans vs Green Bay Phoenix
 5262021, 2021-10-16, Green Bay Phoenix vs IUPUI Jaguars
+5197820, 2021-02-03, Pacific Tigers Hawaii vs California Baptist Lancers
+5194465, 2021-02-28, Pacific Tigers Hawaii vs San Diego Toreros
+5194473, 2021-03-14, Pacific Tigers Hawaii vs Santa Clara Broncos
+5199571, 2021-02-11, Seattle Pacific vs Washington Huskies
 5194476, 2021-02-20, Pacific Tigers vs San Francisco Dons
 5194470, 2021-03-07, Pacific Tigers vs Portland Pilots
 5194482, 2021-03-27, Loyola Marymount LMU Lions vs Pacific Tigers
@@ -1255,10 +1237,6 @@
 5194489, 2021-04-18, Gonzaga Bulldogs vs Pacific Tigers
 5267583, 2021-10-10, Santa Clara Broncos vs Pacific Tigers
 5267595, 2021-10-31, Portland Pilots vs Pacific Tigers
-5197820, 2021-02-03, Pacific Tigers Hawaii vs California Baptist Lancers
-5194465, 2021-02-28, Pacific Tigers Hawaii vs San Diego Toreros
-5194473, 2021-03-14, Pacific Tigers Hawaii vs Santa Clara Broncos
-5199571, 2021-02-11, Seattle Pacific vs Washington Huskies
 5195306, 2021-02-26, Binghamton BearCats vs Albany Great Danes
 5195311, 2021-03-14, Hartford Hawks vs Binghamton BearCats
 5195314, 2021-03-19, Binghamton BearCats vs UMBC Retrievers
@@ -1300,9 +1278,25 @@
 5262153, 2021-09-18, Marist Red Foxes vs Bryant Bulldogs
 5261819, 2021-10-27, Marist Red Foxes vs Niagara Purple Eagles
 5298061, 2021-11-14, Marist Red Foxes vs Rider Broncs
-5223810, 2021-05-06, Cal State Fullerton Titans vs UC Irvine Anteaters
-5267345, 2021-09-04, Cal State Fullerton Titans vs LMU Lions
-5267362, 2021-09-25, Cal State Fullerton Titans vs Santa Clara Broncos
+5196301, 2021-02-09, FAU Owls vs Stetson Hatters
+5201735, 2021-02-13, FAU Owls vs Keiser University
+5208189, 2021-02-13, FAU Owls vs St. Thomas Bobcats
+5193394, 2021-02-19, Jacksonville Dolphins vs FAU Owls
+5201746, 2021-02-24, FGCU Eagles vs FAU Owls
+5201755, 2021-03-06, FIU Panthers vs FAU Owls
+5201760, 2021-03-13, FAU Owls vs Kentucky Wildcats
+5201765, 2021-03-21, Old Dominion Monarchs vs FAU Owls
+5201766, 2021-03-27, FAU Owls vs South Carolina Gamecocks
+5201770, 2021-04-03, Marshall Thundering Herd vs FAU Owls
+5216668, 2021-04-10, Charlotte 49ers vs FAU Owls
+5201778, 2021-04-17, FAU Owls vs UAB Blazers
+5271439, 2021-08-20, FAU Owls vs UCF Knights
+5271466, 2021-08-30, HBU Huskies vs FAU Owls
+5272650, 2021-09-03, FAU Owls vs Keiser Seahawks
+5272659, 2021-09-14, FAU Owls vs FGCU Eagles
+5272857, 2021-10-03, South Carolina Gamecocks vs FAU Owls
+5296925, 2021-11-11, Charlotte 49ers vs FAU Owls
+5298138, 2021-11-14, Kentucky Wildcats vs FAU Owls
 5199182, 2021-02-13, Fordham Rams vs Fairleigh Dickinson Knights
 5199196, 2021-02-24, Seton Hall Pirates vs Fairleigh Dickinson Knights
 5201453, 2021-03-01, Sacred Heart Pioneers vs Fairleigh Dickinson Knights
@@ -1369,9 +1363,6 @@
 5263201, 2021-09-11, Creighton Bluejays vs Drake Bulldogs
 5267310, 2021-09-14, UMKC Kangaroos vs Drake Bulldogs
 5266777, 2021-09-26, Loyola Chicago Ramblers vs Drake Bulldogs
-5261730, 2021-09-12, CSUN Matadors vs Omaha Mavericks
-5271326, 2021-10-06, Indiana Hoosiers vs Omaha Mavericks
-5271342, 2021-11-06, Omaha Mavericks vs WIU Fighting Leathernecks
 5193797, 2021-02-22, UMKC Kangaroos vs Nebraska Omaha Mavericks
 5206085, 2021-02-27, Nebraska Omaha Mavericks vs Creighton Bluejays
 5193798, 2021-03-04, Nebraska Omaha Mavericks vs WIU Fighting Leathernecks
@@ -1383,7 +1374,9 @@
 5193815, 2021-04-04, Oral Roberts Golden Eagles vs Nebraska Omaha Mavericks
 5193817, 2021-04-16, Nebraska Omaha Mavericks vs Denver Pioneers
 5193789, 2021-04-18, Denver Pioneers vs Nebraska Omaha Mavericks
-5270832, 2021-09-30, Tulsa Hurricane vs SMU Mustangs
+5261730, 2021-09-12, CSUN Matadors vs Omaha Mavericks
+5271326, 2021-10-06, Indiana Hoosiers vs Omaha Mavericks
+5271342, 2021-11-06, Omaha Mavericks vs WIU Fighting Leathernecks
 5194622, 2021-02-06, UCF Knights University vs Tulsa Hurricane University
 5194667, 2021-02-28, Tulsa Hurricane University vs UCF Knights University
 5194670, 2021-03-07, USF Bulls vs Tulsa Hurricane University
@@ -1394,6 +1387,7 @@
 5194681, 2021-04-10, Tulsa Hurricane University vs USF Bulls
 5218794, 2021-04-15, Tulsa Hurricane University vs Temple Owls University
 5218796, 2021-04-17, UCF Knights University vs Tulsa Hurricane University
+5270832, 2021-09-30, Tulsa Hurricane vs SMU Mustangs
 5195179, 2021-03-04, NC State Wolfpack vs Louisville Cardinals
 5195184, 2021-03-13, Louisville Cardinals vs Syracuse Orange
 5195190, 2021-03-20, Boston College Eagles vs Louisville Cardinals
@@ -1440,11 +1434,6 @@
 5218844, 2021-04-15, Drexel Dragons vs JMU Dukes
 5271469, 2021-09-03, Drexel Dragons vs Stony Brook Seawolves
 5271056, 2021-11-06, Drexel Dragons vs Delaware Blue Hens
-5263684, 2021-08-13, West Virginia Mountaineers vs Duquesne Duke
-5262454, 2021-08-29, Duquesne Duke vs Robert Morris Colonials
-5267640, 2021-08-31, Duquesne Duke vs SFU Red Flash
-5270457, 2021-10-02, Davidson Wildcats vs Duquesne Duke
-5270506, 2021-10-30, Dayton Flyers vs Duquesne Duke
 5199201, 2021-02-27, Pittsburgh Panthers University vs Duquesne Dukes
 5201924, 2021-03-13, St. Bonaventure Bonnies vs Duquesne Dukes
 5201933, 2021-03-17, Duquesne Dukes vs University of Dayton  Flyers
@@ -1452,6 +1441,14 @@
 5201942, 2021-03-27, Duquesne Dukes vs St. Bonaventure Bonnies
 5201951, 2021-04-03, University of Dayton  Flyers vs Duquesne Dukes
 5201961, 2021-04-11, Saint Louis Billikens vs Duquesne Dukes
+5263684, 2021-08-13, West Virginia Mountaineers vs Duquesne Duke
+5262454, 2021-08-29, Duquesne Duke vs Robert Morris Colonials
+5267640, 2021-08-31, Duquesne Duke vs SFU Red Flash
+5270457, 2021-10-02, Davidson Wildcats vs Duquesne Duke
+5270506, 2021-10-30, Dayton Flyers vs Duquesne Duke
+5199136, 2021-01-29, Davidson Wildcats vs Belmont Abbey Crusaders
+5196303, 2021-02-06, Liberty Flames vs Belmont Abbey Crusaders
+5203990, 2021-02-17, Belmont Abbey Crusaders vs UNCG Spartans
 5196816, 2021-02-21, Bellarmine Knights vs Belmont Bruins
 5194751, 2021-02-25, Belmont Bruins vs Central Arkansas Bears
 5194754, 2021-03-03, Belmont Bruins vs Lipscomb Bisons
@@ -1468,9 +1465,6 @@
 5271257, 2021-10-16, Belmont Bruins vs UNCG Spartans
 5271260, 2021-10-23, Mercer Bears vs Belmont Bruins
 5296826, 2021-11-07, UNCG Spartans vs Belmont Bruins
-5199136, 2021-01-29, Davidson Wildcats vs Belmont Abbey Crusaders
-5196303, 2021-02-06, Liberty Flames vs Belmont Abbey Crusaders
-5203990, 2021-02-17, Belmont Abbey Crusaders vs UNCG Spartans
 5273126, 2021-08-21, Wisconsin Badgers vs St. Thomas
 5273511, 2021-08-23, Notre Dame Fighting Irish vs St. Thomas
 5271296, 2021-08-27, HBU Huskies vs St. Thomas
@@ -1483,6 +1477,10 @@
 5194482, 2021-03-27, Loyola Marymount LMU Lions vs Pacific Tigers
 5194486, 2021-04-03, Loyola Marymount LMU Lions vs San Francisco Dons
 5194490, 2021-04-11, Saint Mary's Gaels vs Loyola Marymount LMU Lions
+5261687, 2021-08-21, CSU Bakersfield Roadrunners vs LMU Lions
+5267345, 2021-09-04, Cal State Fullerton Titans vs LMU Lions
+5267815, 2021-09-24, Berkeley Golden Bears vs LMU Lions
+5267588, 2021-10-24, LMU Lions vs Portland Pilots
 5195695, 2021-02-04, Oakland Golden Grizzlies vs Robert Morris Colonials
 5195699, 2021-02-10, UIC Flames vs Oakland Golden Grizzlies
 5195703, 2021-02-16, Oakland Golden Grizzlies vs IPFW Mastodons
@@ -1519,6 +1517,9 @@
 5261688, 2021-08-22, CSUN Matadors vs San Diego Toreros
 5261730, 2021-09-12, CSUN Matadors vs Omaha Mavericks
 5261643, 2021-10-07, CSUN Matadors vs Sacramento State Hornets
+5223810, 2021-05-06, Cal State Fullerton Titans vs UC Irvine Anteaters
+5267345, 2021-09-04, Cal State Fullerton Titans vs LMU Lions
+5267362, 2021-09-25, Cal State Fullerton Titans vs Santa Clara Broncos
 5193954, 2021-02-07, UNLV Rebels vs California Baptist Lancers
 5193955, 2021-02-13, UIW Cardinals vs UNLV Rebels
 5194024, 2021-02-21, UNLV Rebels vs Air Force Falcons
@@ -1530,7 +1531,6 @@
 5194058, 2021-03-31, Dixie State vs UNLV Rebels
 5194064, 2021-04-06, San Jose State Spartans vs UNLV Rebels
 5218786, 2021-04-13, UNLV Rebels vs Seattle Redhawks
-5267649, 2021-09-05, Berkeley Golden Bears vs UNLV Rebels
 5261726, 2021-09-11, Sacramento State Hornets vs UNLV Rebels
 5271360, 2021-10-08, UNLV Rebels vs HBU Huskies
 5271418, 2021-11-07, UNLV Rebels vs Dixie State Blazers
@@ -1786,6 +1786,18 @@
 5199789, 2021-03-23, Virginia Cavaliers vs Central Arkansas Bears
 5264532, 2021-10-02, FGCU Eagles vs Central Arkansas Bears
 5264549, 2021-10-31, Lipscomb Bisons vs Central Arkansas Bears
+5203938, 2021-02-19, Michigan State Spartans vs Rutgers Scarlet Knights
+5203942, 2021-02-24, Michigan Wolverines vs Michigan State Spartans
+5203946, 2021-02-27, Penn State Nittany Lion vs Michigan State Spartans
+5203948, 2021-03-03, Michigan State Spartans vs Ohio State Buckeyes
+5203956, 2021-03-11, Michigan State Spartans vs Northwestern Wildcats
+5203958, 2021-03-15, Indiana Hoosiers vs Michigan State Spartans
+5203968, 2021-03-23, Michigan State Spartans vs Michigan Wolverines
+5203974, 2021-03-31, Michigan State Spartans vs Wisconsin Badgers
+5217644, 2021-04-10, Michigan Wolverines vs Michigan State Spartans
+5273127, 2021-08-21, Michigan State Spartans vs IPFW Mastodons
+5266664, 2021-09-18, Wisconsin Badgers vs Michigan State Spartans
+5266751, 2021-10-10, Rutgers Scarlet Knights vs Michigan State Spartans
 5203937, 2021-02-20, Northwestern Wildcats vs Michigan Wolverines
 5203942, 2021-02-24, Michigan Wolverines vs Michigan State Spartans
 5203949, 2021-03-03, Michigan Wolverines vs Penn State Nittany Lion
@@ -1801,18 +1813,6 @@
 5277235, 2021-08-15, Michigan Wolverines vs UIC Flames
 5277236, 2021-08-20, Michigan Wolverines vs Saginaw Valley State
 5273452, 2021-08-26, Michigan Wolverines vs Detroit Mercy Titans
-5203938, 2021-02-19, Michigan State Spartans vs Rutgers Scarlet Knights
-5203942, 2021-02-24, Michigan Wolverines vs Michigan State Spartans
-5203946, 2021-02-27, Penn State Nittany Lion vs Michigan State Spartans
-5203948, 2021-03-03, Michigan State Spartans vs Ohio State Buckeyes
-5203956, 2021-03-11, Michigan State Spartans vs Northwestern Wildcats
-5203958, 2021-03-15, Indiana Hoosiers vs Michigan State Spartans
-5203968, 2021-03-23, Michigan State Spartans vs Michigan Wolverines
-5203974, 2021-03-31, Michigan State Spartans vs Wisconsin Badgers
-5217644, 2021-04-10, Michigan Wolverines vs Michigan State Spartans
-5273127, 2021-08-21, Michigan State Spartans vs IPFW Mastodons
-5266664, 2021-09-18, Wisconsin Badgers vs Michigan State Spartans
-5266751, 2021-10-10, Rutgers Scarlet Knights vs Michigan State Spartans
 5199175, 2021-02-06, VCU Rams vs Old Dominion Monarchs
 5201737, 2021-02-14, Old Dominion Monarchs vs Campbell Camels
 5201741, 2021-02-20, Old Dominion Monarchs vs George Mason Patriots
@@ -2002,25 +2002,6 @@
 5267801, 2021-10-06, UMBC Retrievers vs Howard Bison
 5271009, 2021-10-17, Albany Great Danes vs UMBC Retrievers
 5295925, 2021-11-06, Stony Brook Seawolves vs UMBC Retrievers
-5196301, 2021-02-09, FAU Owls vs Stetson Hatters
-5201735, 2021-02-13, FAU Owls vs Keiser University
-5208189, 2021-02-13, FAU Owls vs St. Thomas Bobcats
-5193394, 2021-02-19, Jacksonville Dolphins vs FAU Owls
-5201746, 2021-02-24, FGCU Eagles vs FAU Owls
-5201755, 2021-03-06, FIU Panthers vs FAU Owls
-5201760, 2021-03-13, FAU Owls vs Kentucky Wildcats
-5201765, 2021-03-21, Old Dominion Monarchs vs FAU Owls
-5201766, 2021-03-27, FAU Owls vs South Carolina Gamecocks
-5201770, 2021-04-03, Marshall Thundering Herd vs FAU Owls
-5216668, 2021-04-10, Charlotte 49ers vs FAU Owls
-5201778, 2021-04-17, FAU Owls vs UAB Blazers
-5271439, 2021-08-20, FAU Owls vs UCF Knights
-5271466, 2021-08-30, HBU Huskies vs FAU Owls
-5272650, 2021-09-03, FAU Owls vs Keiser Seahawks
-5272659, 2021-09-14, FAU Owls vs FGCU Eagles
-5272857, 2021-10-03, South Carolina Gamecocks vs FAU Owls
-5296925, 2021-11-11, Charlotte 49ers vs FAU Owls
-5298138, 2021-11-14, Kentucky Wildcats vs FAU Owls
 5261679, 2021-08-12, CSU Bakersfield Roadrunners vs The Master's Mustangs
 5261684, 2021-08-14, Stanford Cardinal vs CSU Bakersfield Roadrunners
 5261687, 2021-08-21, CSU Bakersfield Roadrunners vs LMU Lions
@@ -2157,11 +2138,6 @@
 5266451, 2021-08-14, Boston Terriers vs Albany Great Danes
 5271484, 2021-09-21, Albany Great Danes vs Rhode Island Rhody
 5271009, 2021-10-17, Albany Great Danes vs UMBC Retrievers
-5273130, 2021-08-21, Maryland College Park Terrapins vs Pittsburgh Panthers
-5264610, 2021-10-01, Pittsburgh Panthers vs Syracuse Orange
-5264623, 2021-10-16, Notre Dame Fighting Irish vs Pittsburgh Panthers
-5264597, 2021-10-22, Virginia Cavaliers vs Pittsburgh Panthers
-5296572, 2021-11-07, Pittsburgh Panthers vs Virginia Tech Hokies
 5199771, 2021-02-13, Pittsburgh Panthers University vs Georgetown Hoyas
 5199772, 2021-02-21, Pittsburgh Panthers University vs Akron Zips
 5199201, 2021-02-27, Pittsburgh Panthers University vs Duquesne Dukes
@@ -2172,6 +2148,11 @@
 5195205, 2021-04-03, Pittsburgh Panthers University vs Notre Dame Fighting Irish University
 5195213, 2021-04-08, Pittsburgh Panthers University vs Virginia Cavaliers
 5218842, 2021-04-17, Clemson Tigers vs Pittsburgh Panthers University
+5273130, 2021-08-21, Maryland College Park Terrapins vs Pittsburgh Panthers
+5264610, 2021-10-01, Pittsburgh Panthers vs Syracuse Orange
+5264623, 2021-10-16, Notre Dame Fighting Irish vs Pittsburgh Panthers
+5264597, 2021-10-22, Virginia Cavaliers vs Pittsburgh Panthers
+5296572, 2021-11-07, Pittsburgh Panthers vs Virginia Tech Hokies
 5203241, 2021-02-13, UNC Asheville Bulldogs vs Furman Paladins
 5194763, 2021-02-21, UNC Asheville Bulldogs vs Longwood Lancers
 5194769, 2021-02-28, UNC Asheville Bulldogs vs Winthrop Eagles
@@ -2347,8 +2328,6 @@
 5261748, 2021-09-22, Oregon State Beavers vs UC Santa Barbara Gauchos
 5261644, 2021-10-07, UC Santa Barbara Gauchos vs UC Irvine Anteaters
 5296592, 2021-11-07, UC Santa Barbara Gauchos vs UC Davis Aggies
-5271439, 2021-08-20, FAU Owls vs UCF Knights
-5270844, 2021-10-27, UCF Knights vs USF Bulls
 5194622, 2021-02-06, UCF Knights University vs Tulsa Hurricane University
 5199780, 2021-02-13, Temple Owls University vs UCF Knights University
 5199781, 2021-02-20, UCF Knights University vs USF Bulls
@@ -2360,6 +2339,8 @@
 5199786, 2021-04-10, Memphis Tigers University vs UCF Knights University
 5218795, 2021-04-15, UCF Knights University vs SMU Mustangs
 5218796, 2021-04-17, UCF Knights University vs Tulsa Hurricane University
+5271439, 2021-08-20, FAU Owls vs UCF Knights
+5270844, 2021-10-27, UCF Knights vs USF Bulls
 5201408, 2021-02-05, ETSU Buccaneers vs Xavier Musketeers
 5201732, 2021-02-09, Kentucky Wildcats vs Xavier Musketeers
 5196307, 2021-02-17, Xavier Musketeers vs Bellarmine Knights
@@ -2391,15 +2372,15 @@
 5271481, 2021-09-11, Stony Brook Seawolves vs Fairfield Stags
 5271498, 2021-10-20, Stony Brook Seawolves vs Yale Bulldogs
 5295925, 2021-11-06, Stony Brook Seawolves vs UMBC Retrievers
-5271435, 2021-08-15, North Carolina Heels vs Marshall Thundering Herd
-5267224, 2021-08-20, Liberty Flames vs North Carolina Heels
-5295569, 2021-11-03, North Carolina Heels vs Syracuse Orange
 5196843, 2021-02-25, North Carolina Heels University vs Liberty Flames
 5195181, 2021-03-06, North Carolina Heels University vs Pittsburgh Panthers University
 5195194, 2021-03-20, Syracuse Orange vs North Carolina Heels University
 5195199, 2021-03-27, Notre Dame Fighting Irish University vs North Carolina Heels University
 5195204, 2021-04-02, North Carolina Heels University vs Virginia Tech Hokies University
 5195211, 2021-04-11, Duke Blue Devils University vs North Carolina Heels University
+5271435, 2021-08-15, North Carolina Heels vs Marshall Thundering Herd
+5267224, 2021-08-20, Liberty Flames vs North Carolina Heels
+5295569, 2021-11-03, North Carolina Heels vs Syracuse Orange
 5203676, 2021-02-17, NJIT Highlanders vs Seton Hall Pirates
 5204476, 2021-02-20, Seton Hall Pirates vs La Salle Explorers
 5199196, 2021-02-24, Seton Hall Pirates vs Fairleigh Dickinson Knights
@@ -2434,13 +2415,13 @@
 5217648, 2021-04-17, Indiana Hoosiers vs Penn State Nittany Lion
 5266455, 2021-08-20, Penn State Nittany Lion vs Bucknell Bison
 5266766, 2021-10-27, Penn State Nittany Lion vs Maryland College Park Terrapins
-5266521, 2021-09-13, Penn Quakers vs Loyola Greyhounds
-5296853, 2021-11-10, Loyola Greyhounds vs Army West Point Black Knights
 5201657, 2021-03-20, Loyola Maryland GreyHounds vs American University Eagles
 5201661, 2021-03-27, Loyola Maryland GreyHounds vs Lehigh Mountain Hawks
 5201667, 2021-04-03, American University Eagles vs Loyola Maryland GreyHounds
 5201669, 2021-04-10, Loyola Maryland GreyHounds vs Bucknell Bison
 5218834, 2021-04-14, Loyola Maryland GreyHounds vs American University Eagles
+5266521, 2021-09-13, Penn Quakers vs Loyola Greyhounds
+5296853, 2021-11-10, Loyola Greyhounds vs Army West Point Black Knights
 5205470, 2021-02-20, Providence Friars vs Rhode Island Rhody
 5195005, 2021-02-27, UCONN Huskies University vs Providence Friars
 5195031, 2021-03-03, Villanova Wildcats vs Providence Friars
@@ -2570,12 +2551,6 @@
 5201950, 2021-04-03, Rhode Island Rhody vs La Salle Explorers
 5266358, 2021-09-21, Rhode Island Rhody vs Boston College Eagles
 5271484, 2021-09-21, Albany Great Danes vs Rhode Island Rhody
-5273502, 2021-08-18, Notre Dame Fighting Irish vs Butler Bulldogs
-5273511, 2021-08-23, Notre Dame Fighting Irish vs St. Thomas
-5264605, 2021-09-24, Virginia Tech Hokies vs Notre Dame Fighting Irish
-5264623, 2021-10-16, Notre Dame Fighting Irish vs Pittsburgh Panthers
-5264624, 2021-10-22, Notre Dame Fighting Irish vs Duke Blue Devils
-5296573, 2021-11-07, Louisville Cardinals vs Notre Dame Fighting Irish
 5200677, 2021-02-27, Butler Bulldogs vs Notre Dame Fighting Irish University
 5195182, 2021-03-07, Virginia Cavaliers vs Notre Dame Fighting Irish University
 5200678, 2021-03-16, Notre Dame Fighting Irish University vs Calvin Knights
@@ -2583,6 +2558,25 @@
 5195199, 2021-03-27, Notre Dame Fighting Irish University vs North Carolina Heels University
 5195205, 2021-04-03, Pittsburgh Panthers University vs Notre Dame Fighting Irish University
 5195212, 2021-04-09, Notre Dame Fighting Irish University vs Virginia Tech Hokies University
+5273502, 2021-08-18, Notre Dame Fighting Irish vs Butler Bulldogs
+5273511, 2021-08-23, Notre Dame Fighting Irish vs St. Thomas
+5264605, 2021-09-24, Virginia Tech Hokies vs Notre Dame Fighting Irish
+5264623, 2021-10-16, Notre Dame Fighting Irish vs Pittsburgh Panthers
+5264624, 2021-10-22, Notre Dame Fighting Irish vs Duke Blue Devils
+5296573, 2021-11-07, Louisville Cardinals vs Notre Dame Fighting Irish
+5194745, 2021-02-07, Saint Louis Billikens vs Missouri State Bears
+5193779, 2021-02-26, UMKC Kangaroos vs Missouri State Bears
+5194758, 2021-02-27, Missouri State Bears vs Bradley Braves
+5194845, 2021-03-02, Missouri State Bears vs SIU Edwardsville Coguars
+5194759, 2021-03-04, Drake Bulldogs vs Missouri State Bears
+5194875, 2021-03-10, Creighton Bluejays vs Missouri State Bears
+5194873, 2021-03-22, Missouri State Bears vs Drake Bulldogs
+5194879, 2021-03-26, Loyola Chicago Ramblers vs Missouri State Bears
+5194848, 2021-03-30, Evansville Purple Aces vs Missouri State Bears
+5194847, 2021-04-08, Missouri State Bears vs Loyola Chicago Ramblers
+5218472, 2021-04-13, Missouri State Bears vs Bradley Braves
+5218473, 2021-04-17, Missouri State Bears vs Loyola Chicago Ramblers
+5266785, 2021-10-09, Missouri State Bears vs Loyola Chicago Ramblers
 5200724, 2021-01-28, Grand Canyon Lopes vs Benedictine University At Mesa Redhawks
 5200725, 2021-01-29, Grand Canyon Lopes vs Northwest Nazarene Nighthawks
 5200726, 2021-01-31, Grand Canyon Lopes vs Northwest Nazarene Nighthawks
@@ -2687,6 +2681,7 @@
 5262805, 2021-10-20, Villanova Wildcats vs DePaul Blue Demons
 5262822, 2021-11-03, Xavier Musketeers vs DePaul Blue Demons
 5201920, 2021-03-02, Saint Louis Billikens vs Columbia Cougars
+5198203, 2021-02-11, Southern Virginia Knights vs VMI Keydets
 5199787, 2021-02-23, Virginia Cavaliers vs Virginia Tech Hokies University
 5199788, 2021-03-02, Virginia Cavaliers vs George Mason Patriots
 5195182, 2021-03-07, Virginia Cavaliers vs Notre Dame Fighting Irish University
@@ -2710,7 +2705,6 @@
 5264605, 2021-09-24, Virginia Tech Hokies vs Notre Dame Fighting Irish
 5295570, 2021-11-03, Virginia Tech Hokies vs Boston College Eagles
 5296572, 2021-11-07, Pittsburgh Panthers vs Virginia Tech Hokies
-5198203, 2021-02-11, Southern Virginia Knights vs VMI Keydets
 5199102, 2021-03-17, Marist Red Foxes vs Niagara Purple Eagles
 5199123, 2021-03-21, Quinnipiac Bobcats vs Niagara Purple Eagles
 5213811, 2021-03-25, Canisius Golden Griffins vs Niagara Purple Eagles
@@ -2794,11 +2788,6 @@
 5262135, 2021-09-08, SHU Pioneers vs Quinnipiac Bobcats
 5262161, 2021-09-25, Quinnipiac Bobcats vs Northeastern Huskies
 5261793, 2021-10-09, Canisius Golden Griffins vs Quinnipiac Bobcats
-5273555, 2021-08-17, IUPUI Jaguars vs Dayton Flyers
-5270734, 2021-09-04, Dayton Flyers vs UIW Cardinals
-5270860, 2021-09-18, Dayton Flyers vs UMKC Kangaroos
-5270506, 2021-10-30, Dayton Flyers vs Duquesne Duke
-5273557, 2021-08-14, Georgia State Panthers vs Clayton State Lakers
 5205601, 2021-02-19, University of Dayton  Flyers vs Bowling Green State Falcons
 5205659, 2021-02-28, University of Dayton  Flyers vs Cedarville Yellow Jackets
 5209317, 2021-03-11, University of Dayton  Flyers vs Bellarmine Knights
@@ -2808,6 +2797,11 @@
 5201951, 2021-04-03, University of Dayton  Flyers vs Duquesne Dukes
 5216876, 2021-04-10, St. Bonaventure Bonnies vs University of Dayton  Flyers
 5218847, 2021-04-15, University of Dayton  Flyers vs George Washington Colonials
+5273555, 2021-08-17, IUPUI Jaguars vs Dayton Flyers
+5270734, 2021-09-04, Dayton Flyers vs UIW Cardinals
+5270860, 2021-09-18, Dayton Flyers vs UMKC Kangaroos
+5270506, 2021-10-30, Dayton Flyers vs Duquesne Duke
+5273557, 2021-08-14, Georgia State Panthers vs Clayton State Lakers
 5206066, 2021-02-26, Northern Illinois Huskies vs Chicago State Cougars
 5206501, 2021-02-28, Chicago State Cougars vs Xavier Musketeers
 5273031, 2021-08-29, Chicago State Cougars vs Detroit Mercy Titans
