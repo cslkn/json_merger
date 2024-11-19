@@ -13,12 +13,19 @@ def generate_date_range(start_date, end_date):
         current_date += timedelta(days=1)
     return date_list
 
-# Define the start and end dates
-start_date = datetime.strptime("08/09/2023", "%m/%d/%Y")
-end_date = datetime.strptime("12/11/2023", "%m/%d/%Y")
+# Define the start and end dates for all ranges with corresponding season_divisions
+date_ranges = [
+    ("08/09/2023", "12/11/2023", "18180"),
+    ("08/11/2022", "12/12/2022", "17906"),
+    ("08/12/2021", "12/12/2021", "17700")
+]
 
-# Generate the date range
-dates = generate_date_range(start_date, end_date)
+# Generate the date ranges
+dates_with_seasons = []
+for start, end, season_division in date_ranges:
+    start_date = datetime.strptime(start, "%m/%d/%Y")
+    end_date = datetime.strptime(end, "%m/%d/%Y")
+    dates_with_seasons.extend([(date, season_division) for date in generate_date_range(start_date, end_date)])
 
 # Create the 'games_ncaa' folder if it doesn't exist
 folder_name = "games_ncaa"
@@ -29,9 +36,9 @@ if not os.path.exists(folder_name):
 all_games = []
 
 # Loop through each date in the range
-for date in dates:
+for date, season_division in dates_with_seasons:
     date_str = date.strftime("%m/%d/%Y")
-    url = f"https://stats.ncaa.org/season_divisions/18180/livestream_scoreboards?utf8=%E2%9C%93&season_division_id=&game_date={date_str}&conference_id=0&tournament_id=&commit=Submit"
+    url = f"https://stats.ncaa.org/season_divisions/{season_division}/livestream_scoreboards?utf8=%E2%9C%93&season_division_id=&game_date={date_str}&conference_id=0&tournament_id=&commit=Submit"
 
     # Headers to mimic a browser
     headers = {
@@ -81,12 +88,13 @@ for date in dates:
 
         # Add the games to the all_games list
         all_games.extend(games)
+        print(f"Retrieved {len(games)} games for {date.strftime('%Y-%m-%d')}")
 
     else:
         print(f"Failed to retrieve the page for {date.strftime('%Y-%m-%d')}. Status code: {response.status_code}")
 
 # Define the filename for the combined JSON file
-combined_filename = os.path.join(folder_name, "all_games.json")
+combined_filename = os.path.join(folder_name, "all_games_2021-2023.json")
 
 # Save the combined JSON content to a file
 with open(combined_filename, "w", encoding="utf-8") as file:
